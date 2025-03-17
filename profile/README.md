@@ -2,14 +2,21 @@
 
 # SynthOS - Verifiable DeFAI Agent Marketplace
 ## 👀What is SynthOS?
-SynthOS is a decentralized marketplace for Verifiable DeFAI(Decentralized Finance AI) Agents, allowing users to deploy, manage, and interact with AI-driven DeFi automation while maintaining security through on chain attestation.
+SynthOS is a verifiable DeFAI agent marketplace where users create no-code AI agents, and investors select policy-validated, automated yield strategies tailored to their risk appetite.
 
 ## 📌Product Description
 ### ‼️Problem Statement
+
 SynthOS aims to solve key challenges in the DeFAI automation space:
-Lack of verifiability – AI agents operate as black boxes with no transparency.
-Limited user control – No modular framework for setting execution rules.
-High barriers to automation – Current solutions are complex and non-intuitive.
+
+- **Lack of verifiability**： 
+AI agents operate as black boxes with no transparency.
+
+- **Limited user control**：
+No modular framework for setting execution rules.
+
+- **High barriers to automation**：
+Current solutions are complex and non-intuitive.
 
 ### 🎯Vision
 A decentralized AI agent economy where users can create, customize, and monetize verifiable DeFi automation without security risks.
@@ -34,6 +41,11 @@ SynthOS enables users to deploy AI agents with predefined execution rules while 
 ### SynthOS is a Verifiable DeFAI Agent Marketplace that implements a cross-chain policy validation system between Base and Scroll networks. The system enables secure validation of agent transactions against predefined policies across different chains.
 
 ### System Architecture
+![Diagram](https://github.com/user-attachments/assets/8c60b9c4-e1b1-468b-a8cb-e0a59a604d21)
+
+## Overview
+
+The Policy-based Transaction Validation AVS is a decentralized framework that enables the validation of blockchain transactions against predefined policies. It leverages the Othentic Stack to provide a secure and transparent validation mechanism.
 
 The system consists of four main smart contracts:
 
@@ -83,6 +95,7 @@ The system consists of four main smart contracts:
   - AgentRegistry: [`0xd97d57bae995259fe1Eb040a63A02F86a4398285`](https://sepolia.scrollscan.com/address/0xd97d57bae995259fe1Eb040a63A02F86a4398285#code)
   - TaskRegistry: [`0x5e38f31693CcAcFCA4D8b70882d8b696cDc24273`](https://sepolia.scrollscan.com/address/0x5e38f31693CcAcFCA4D8b70882d8b696cDc24273#code)
   - PolicyCoordinator: [`0xbAdfD548E1D369633Cf23a53C7c8dC37607001e9`](https://sepolia.scrollscan.com/address/0xbAdfD548E1D369633Cf23a53C7c8dC37607001e9#code)
+  - Faucet: [`0x602396FFA43b7FfAdc80e01c5A11fc74F3BA59f5`](https://sepolia.scrollscan.com/address/0x602396FFA43b7FfAdc80e01c5A11fc74F3BA59f5#code)
 
 - **Base Sepolia**:
 
