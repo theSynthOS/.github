@@ -78,7 +78,7 @@ DeFi carries inherent risks including smart contract vulnerabilities, market vol
 
 - **App**: [app.bundie.fi](https://app.bundie.fi)
 - **Docs**: [docs.bundie.fi](https://docs.bundie.fi)
-- **MCP Server**: [mcp.bundie.fi](https://mcp.bundie.fi)
+- **MCP Server**: [mcp.bundie.fi/evm](https://mcp.bundie.fi/evm)
 - **Smithery**: [smithery.ai/servers/bundie/evm](https://smithery.ai/servers/bundie/evm)
 - **Twitter**: [@Bundie__](https://x.com/Bundie__)
 - **Telegram**: [Join community](https://t.me/+uN6dMuzQB_g2OGU1)
